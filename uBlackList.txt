@@ -54,6 +54,9 @@
 *://*.pin.it/*
 *://*.pinimg.com/*
 
+## Quora
+*://*.quora.com/*
+
 ## Fake Code Websites
 *://code-examples.net/*
 *://answer-id.com/*
